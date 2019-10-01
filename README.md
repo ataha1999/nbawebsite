@@ -57,9 +57,6 @@ After that, you could run the python command:
 
 Then the website will be running on localhost port 8080. http://localhost:8080/
 
-
-* **Mohammed Taha** 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
